@@ -1,0 +1,6 @@
+1.play loop 
+
+2.show exception of talk
+-if voice.isplaying show exception
+
+3.disconnect after 1 minutes of no listeners
